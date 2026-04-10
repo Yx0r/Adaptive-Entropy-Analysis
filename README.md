@@ -122,7 +122,7 @@ Built for **security researchers, reverse engineers, and malware analysts** who 
 
 Currently available as a compiled Windows executable:
 
-📦 **[Download latest release →](https://github.com/Yx0R/releases)**
+📦 **[Download latest release →](https://github.com/Yx0R/releases/tag/1st_Relese)**
 
 | File | Description |
 |------|-------------|
