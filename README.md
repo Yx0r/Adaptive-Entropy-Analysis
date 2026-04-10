@@ -4,7 +4,7 @@
 
 **Advanced Static Malware Analysis Framework**
 
-*By [Yx0R](https://github.com/Yx0R)*  [Yash Gaikwad](https://yash-gaikwad.onrender.com)
+*By [Yx0R](https://github.com/Yx0R)*,  [Yash Gaikwad](https://yash-gaikwad.onrender.com)
 
 ---
 
