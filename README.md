@@ -299,7 +299,7 @@ File open → magic byte detection → lief/zip parse
 ```
 MIT License
 
-Copyright (c) 2025 Yx0R
+Copyright (c) 2026 Yx0R
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -311,10 +311,13 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+This project may be used, modified, and distributed under the MIT License, provided that proper attribution to the original author is maintained.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
+
 
 ---
 
